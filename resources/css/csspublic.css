@@ -224,7 +224,7 @@ footer {
     margin-left: 50px;
     margin-top: 40px;
 }
-
+contenCaarr
 select {
     border-color: blueviolet !important;
 }
@@ -425,10 +425,10 @@ select {
     width: 650px;
     height: 350px;
     border-radius: 30px;
-    margin-left: 400px !important;
     padding-bottom: 50px;
     margin-right: 410px;
 }
+
  
 .conteinercarrito{
     padding-top: 20px;
@@ -448,15 +448,12 @@ select {
 {
     width: 100px;
     float: left;
-}
-
-.contenCaarr{
     display: flex;
 }
 
-.tbComentarios{
-    float: left;
-}
+
+
+
 
 .letraPer{
     margin-left: 40px;
@@ -481,12 +478,6 @@ select {
 
 .btnComi{
     background-color: #1D1C6A;
-    margin-left: 50px;
-}
-
-.nCmen{
-
-    margin-left: 400px !important;
 }
 
 .interes {
@@ -494,7 +485,7 @@ select {
 }
 
 
-/*arrito*/
+/*carrito*/
 
 /*Inicio codigo para las tarjetitas*/
 
