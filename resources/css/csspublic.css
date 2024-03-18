@@ -369,6 +369,133 @@ select {
     }
 }
 
+/*Carrito */
+.star{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #b6b5b5;
+    font-size: 30px;
+    transition: color 3.0s;
+    margin-left: 40px;
+}
+
+.listacarrito{
+    padding-top: 90px;
+}
+
+.stark{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: gold;
+    font-size: 30px;
+    transition: color 3.0s;
+    margin-left: 40px;
+}
+
+.star:hover
+.star:checked{
+    color: gold;
+}
+
+
+.corazonc{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #b6b5b5;
+    font-size: 30px;
+    transition: color 3.0s;
+    display: flex;
+    margin-left: 400px;
+}
+.btnañacarrito{
+    background-color: #1D1C6A !important;
+}    
+
+.corazonc:hover
+.corazonc:checked{
+    color: gold;
+}
+
+.tableComen{
+    padding: 60px!important; 
+    margin: 30px !important;
+    width: 650px;
+    height: 350px;
+    border-radius: 30px;
+    margin-left: 400px !important;
+    padding-bottom: 50px;
+    margin-right: 410px;
+}
+ 
+.conteinercarrito{
+    padding-top: 20px;
+    margin: 10px;
+ }
+
+
+.btnañacarrito{
+   margin-right: 400px;
+}
+
+.precioCarito{
+    display: flex;
+    margin-left: 90px;
+}
+.contenCaarr
+{
+    width: 100px;
+    float: left;
+}
+
+.contenCaarr{
+    display: flex;
+}
+
+.tbComentarios{
+    float: left;
+}
+
+.letraPer{
+    margin-left: 40px;
+    padding-top: 20px;
+}
+
+
+.comenta
+.cocomen{
+    width: 30px;
+}
+
+.CuantasEstrellas{
+    margin-left: 40px;
+}
+
+.cuadroTextComen{
+    border-radius: 30px;
+    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.671);
+    margin-left: 50px;
+}
+
+.btnComi{
+    background-color: #1D1C6A;
+    margin-left: 50px;
+}
+
+.nCmen{
+
+    margin-left: 400px !important;
+}
+
+.interes {
+    display: flex;
+}
+
+
+/*arrito*/
+
 /*Inicio codigo para las tarjetitas*/
 
 .imagen_tarjeta {
